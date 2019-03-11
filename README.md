@@ -1,3 +1,9 @@
+
+Building an app based on the pluralsight course content https://github.com/joeeames/AngularFundamentalsFiles
+
+https://github.com/joeeames/AngularFundamentalsFiles
+
+
 # Angular Event Registration — Demo Application for Angular JS
 
 This project is a sample application demonstrating a more fully developed realistic single page
