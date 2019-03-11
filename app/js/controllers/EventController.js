@@ -12,18 +12,19 @@ eventsApp.controller('EventController',
 
 
         $scope.event = {
-            name: 'DMU Angular Boot Camp',
-            date: '15/2/2019',
-            time: '14:30',
+            name: 'Angular Boot Camp',
+            date: '11/3/2019',
+            time: '14:00',
             location: {
                 city: 'Bridgend',
                 office: 'Hughes Park',
-                room: '1/1'
+                room: '101'
 
             },
             imageUrl: '/img/kludge.jpg'
 
 
+            
 
         }
 
